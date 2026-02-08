@@ -14,7 +14,7 @@ An intelligent news processing tool that automates the extraction and summarizat
 - Language: Python
 - NLP Frameworks: Hugging Face Transformers (BART/T5), NLTK, or SpaCy.
 - Data Handling: Pandas, BeautifulSoup (for scraping).
-- Interface: (If applicable) Streamlit or Flask.
+- Interface: Streamlit or Flask.
 
 # 📄 License:
 
